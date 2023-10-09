@@ -6,12 +6,12 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/logo_illustrator_1"
+        android:icon="@drawable/g"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/logo_illustrator_1"
+        android:roundIcon="@drawable/g"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjectG"
-        tools:targetApi="31">
+        tools:targetApi="34">
         <activity
             android:name=".view.recover"
             android:exported="false" />
